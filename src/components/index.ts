@@ -1,0 +1,6 @@
+export { default as Navigation } from '@/components/layout/Navigation'
+export { default as Footer } from '@/components/layout/Footer'
+export { default as Hero } from '@/components/sections/Hero'
+export { default as Features } from '@/components/sections/Features'
+export { default as Pricing } from '@/components/sections/Pricing'
+export { default as Cta } from '@/components/sections/Cta'
